@@ -1,0 +1,6 @@
+[package]
+name = "vulkano-pathtracer"
+version = "0.1.0"
+authors = ["Arian van Putten <aeroboy94@gmail.com>"]
+
+[dependencies]
