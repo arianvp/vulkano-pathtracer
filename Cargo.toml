@@ -3,6 +3,11 @@ name = "vulkano-pathtracer"
 version = "0.1.0"
 authors = ["Arian van Putten <aeroboy94@gmail.com>"]
 
+# build = "tango-build.rs"
+
+[build-dependencies]
+tango = "0.7.*"
+
 [dependencies]
 vulkano = "0.7"
 vulkano-shader-derive = "0.7"
